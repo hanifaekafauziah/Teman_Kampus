@@ -2,7 +2,7 @@
 <h2>Hanifa Eka Fauziah - 2488010060</h2>
 
 <h3>Video Penjelasan Website</h3>
-<a href="https://youtu.be/n4LN-6vaQ50?si=25jLq4KLz7qvef57">Link Youtube</a>
+<a href="https://youtu.be/BiYICSkm5mg?si=3kBFgNcrALTF5Rlv">Link Youtube</a>
 <br>
 <h3>Tampilan Login</h3>
 <img widht="1336" height="614" alt="image" src=https://github.com/hanifaekafauziah/Teman_Kampus/blob/main/login.png />
